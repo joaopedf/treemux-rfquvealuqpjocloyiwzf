@@ -1,0 +1,5 @@
+# ClinicLink
+
+**Saving lives by preventing critical information loss in rural healthcare.**
+
+In rural clinics across developing countries, healthcare workers handle dozens of patient calls daily—but critical symptoms, red flags, and urgent details often get lost in translation or overwhelmed staff miss key warning signs. ClinicLink is a real-time AI assistant that listens to patient calls, instantly extracts vital medical information, identifies urgency levels, and suggests immediate clinical actions. Powered by Claude AI, it provides structured clinical summaries and flags life-threatening conditions like cardiac emergencies within seconds, ensuring no patient falls through the cracks. What makes it unique is its focus on real-world constraints: designed for low-bandwidth environments, it works with simple voice transcription and delivers actionable guidance that non-specialist healthcare workers can immediately implement. This isn't just another AI healthcare tool—it's a lifeline for the 2 billion people in underserved communities who lack access to specialist care, turning every rural clinic into a safer, smarter point of care.
